@@ -1,3 +1,6 @@
+## Live Demo
+
+[Открыть приложение в Streamlit](https://titanic-ai-survival-ca7titanic-ai-survivalpwmekuvemycvnsqp8df.streamlit.app/)
 # 🚢 Titanic Survival Predictor
 
 Учебный мини-проект по машинному обучению: модель прогнозирует вероятность выживания пассажира Titanic по выбранным пользователем параметрам.
